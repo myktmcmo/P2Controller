@@ -19,3 +19,10 @@ How to install P2 Controller on Windows
 
   	d.	Remove all slots so that you can place your hand through it
 8.	Follow Lightburn to calibrate your p2 main camera.
+
+
+Application uses following Libraries:
+  
+  SoftCam
+  
+  STBImagesSharp
