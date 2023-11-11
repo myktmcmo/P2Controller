@@ -14,8 +14,11 @@ How to install P2 Controller on Windows
     c.	Remove tray
   
     d.	Remove all slots so that you can place your hand through it
-7.	Follow Lightburn to calibrate your p2 main camera.
-8.	You will need to move laser bar from y=0 to y=300 to perform upper section calibration.
+7.  Make sure Lightburn setting for camera is set "deafult captuer system"
+    [image](https://github.com/myktmcmo/P2Controller/assets/149642164/2b88258e-18a6-47b1-8237-4d3bf9eae654)
+
+9.	Follow Lightburn to calibrate your p2 main camera.
+10.	You will need to move laser bar from y=0 to y=300 to perform upper section calibration.
 
 •	Use stream mode only for calibration as frame rate is 4s/frame.  Not suitable for video.
 
