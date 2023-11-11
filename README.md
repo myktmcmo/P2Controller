@@ -23,4 +23,4 @@ If you like application, please consider my friend Jason Wang is fundraising for
 
 Donating through JustGiving is simple, fast and totally secure. Once you donate, they'll send your money directly to Texas 4000 For Cancer, so it's the most efficient way to give - saving time and cutting costs for the charity.
 
-You can donate to their JustGiving page by clicking here https://www.justgiving.com/page/jason-wang-1675732380932?utm_medium=fundraising&utm_content=page%2Fjason-wang-1675732380932&utm_source=email&utm_campaign=pfp-email
+You can donate to he's JustGiving page by clicking here https://www.justgiving.com/page/jason-wang-1675732380932?utm_medium=fundraising&utm_content=page%2Fjason-wang-1675732380932&utm_source=email&utm_campaign=pfp-email
