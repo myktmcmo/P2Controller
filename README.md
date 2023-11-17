@@ -23,7 +23,4 @@ How to install P2 Controller on Windows
 •	Use stream mode only for calibration as frame rate is 4s/frame.  Not suitable for video.
 
 If you like application, please consider my friend Jason Wang is fundraising for Texas 4000 For Cancer, and they’d really appreciate your support.
-
-Donating through JustGiving is simple, fast and totally secure. Once you donate, they'll send your money directly to Texas 4000 For Cancer, so it's the most efficient way to give - saving time and cutting costs for the charity.
-
-You can donate to he's JustGiving page by clicking here https://www.justgiving.com/page/jason-wang-1675732380932?utm_medium=fundraising&utm_content=page%2Fjason-wang-1675732380932&utm_source=email&utm_campaign=pfp-email
+https://www.texas4000.org/rider/2024/unassigned/jason-wang/
